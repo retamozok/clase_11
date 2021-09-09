@@ -1,0 +1,25 @@
+.body {background-color: #2d1017
+}
+
+.divtitulo {background-color: #6B2737;
+            font-family: 'Sofia', cursive;
+            color: rgb(219, 107, 107);
+            font-size: 100%;
+            text-align: center;
+
+}
+
+.divh2 {color: rgb(240, 180, 17);
+        font-size: 14px;
+
+}
+
+.parrafo1 {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: #ffffff;
+        font-size: 14px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        border: #ffffff;
+        border-width: 1px;
+       
+}
